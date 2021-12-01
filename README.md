@@ -1,8 +1,8 @@
 ### Olá! Me chamo Jelson *(acho que o nome do perfil entregou isso)*, seja bem-vindo(a) ao meu perfil!
 
-- Sou estudante do terceiro ano do ensino médio 🕢🕚🏫🎓
+- Sou formando terceiro ano do ensino médio 🕢🕚🏫🎓
 - Bem com estudante de programação ☕💾💻
-- Ah, vale lembrar, sou estagiário também! 📓👨‍💻   
+- Estagiário e futuro programador! 📓👨‍💻   
 
 <div>
   <a href="https://github.com/JJelsonRodrigues">
